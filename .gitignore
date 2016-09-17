@@ -20,8 +20,10 @@ build
 bundle.css
 bundle.js
 
+.editorconfig
 config/*.json
 node_modules
 .DS_Store
 .sass-cache
 .idea
+.vscode
